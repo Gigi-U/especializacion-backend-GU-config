@@ -1,0 +1,1 @@
+Acceso público a microservicios para verificar funcionamiento.
